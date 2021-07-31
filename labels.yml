@@ -1,0 +1,9 @@
+# labels besides the github defaults
+---
+-
+  name: review
+  color: 5DFE76
+
+-
+  name: priority
+  color: AD33FF
